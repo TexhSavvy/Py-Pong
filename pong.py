@@ -131,7 +131,6 @@ paddle2.add(PaddleTwo())
 ball = pygame.sprite.GroupSingle()
 ball.add(Ball())
 
-score1 = pygame
 #Game Loop
 while True:
     #Event Loop
